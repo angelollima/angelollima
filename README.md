@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h4 align="center">contact</h4>
+<h4 align="center">contacts</h4>
 <div align="center">
   <a
 href="https://instagram.com/xwhelima"
