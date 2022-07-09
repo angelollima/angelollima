@@ -1,21 +1,21 @@
-###
-  
-- 🎓 I'm currently studying IT at college
-- 📚 I’m currently learning JavaScript
+<h3 align="center">Hi, I'm Angelo... always learning something new</h2>
 
-##
+<h4 align="center">Langs</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css" />
+  </a>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Angelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angelo-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Angelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Angelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>
+<h4 align="center">tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
+  </a>
+</p>
 
-##
-
-<div>
+<h4 align="center">contact</h4>
+<div align="center">
   <a
 href="https://instagram.com/xwhelima"
 target="_blank">
@@ -31,8 +31,7 @@ target="_blank">
   </a>
 </div>
 
-##
-
+<h3 align="center">GitHub stats</h3>
 <div align="center">
   <a href="https://github.com/Angelollima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelollima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
