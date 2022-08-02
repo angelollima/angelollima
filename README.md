@@ -15,6 +15,7 @@
 </p>
 
 <h4 align="center">contacts</h4>
+
 <div align="center">
   <a
 href="https://instagram.com/xwhelima"
@@ -27,6 +28,14 @@ target="_blank">
 href="https://www.linkedin.com/in/angelo-lima-a53886231"
 target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+target="_blank">
+  </a>
+</div>
+
+  <a
+href="https://t.me/angeloliima"
+target="_blank">
+<img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"
 target="_blank">
   </a>
 </div>
