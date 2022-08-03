@@ -7,30 +7,30 @@
   </a>
 </p>
 
-<h4 align="center">tools</h4>
+<h4 align="center">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src='https://skillicons.dev/icons?i=vscode,git,github'/>
   </a>
 </p>
 
-<h4 align="center">contacts</h4>
+<h4 align="center">Contacts</h4>
 
-<div align="center">
+<p align="center">
   <a
 href='https://instagram.com/xwhelima'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
 target="_blank">
   </a>
-
+<!-- Divide the space -->
   <a
 href='https://www.linkedin.com/in/angelo-lima-a53886231'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=linkedin'
 target="_blank">
   </a>
-</div>
+</p>
 
 <h3 align="center">GitHub stats</h3>
 <div align="center">
