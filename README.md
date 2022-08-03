@@ -21,14 +21,12 @@
 href='https://instagram.com/xwhelima'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
-target="_blank">
   </a>
 <!-- Divide the space -->
   <a
 href='https://www.linkedin.com/in/angelo-lima-a53886231'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=linkedin'
-target="_blank">
   </a>
 </p>
 
