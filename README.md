@@ -10,7 +10,7 @@
 <h4 align="center">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src='https://skillicons.dev/icons?i=vscode,git,github,linux'/>
+    <img src='https://skillicons.dev/icons?i=neovim,vscode,git,github,linux'/>
   </a>
 </p>
 
