@@ -3,14 +3,14 @@
 <h4 align="center">Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c"/>
+    <img src="https://skillicons.dev/icons?i=python,rust"/>
   </a>
 </p>
 
 <h4 align="center">Frameworks & Libraries</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi,tailwindcss"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwindcss"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <h4 align="center">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=obsidian,neovim,vscode,idea,anaconda,git,github"/>
+    <img src="https://skillicons.dev/icons?i=obsidian,neovim,vscode,anaconda,git,github"/>
   </a>
 </p>
 
